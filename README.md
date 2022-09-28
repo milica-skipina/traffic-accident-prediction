@@ -1,4 +1,5 @@
-# traffic-accident-prediction
+# Traffic Accident Severity Prediction in the City of New York
+
 
 This repository contains the source code for project done as the part of the Data Mining and Data Analysis Systems course at master's academic studies in Computing and Control Engineering, Faculty of Technical Sciences, University of Novi Sad. 
 
